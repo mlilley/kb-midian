@@ -1,0 +1,6 @@
+[submodule "libs/crides_kleeb"]
+	path = libs/crides_kleeb
+	url = git@github.com:crides/kleeb.git
+[submodule "libs/mlilley_kb-parts-kicad"]
+	path = libs/mlilley_kb-parts-kicad
+	url = git@github.com:mlilley/kb-parts-kicad.git

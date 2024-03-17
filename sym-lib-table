@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mcu")(type "KiCad")(uri "${KIPRJMOD}/libs/crides_kleeb/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "switch")(type "KiCad")(uri "${KIPRJMOD}/libs/crides_kleeb/switch.kicad_sym")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/libs/crides_kleeb/misc.kicad_sym")(options "")(descr ""))
+  (lib (name "mlilley-smalls")(type "KiCad")(uri "${KIPRJMOD}/libs/mlilley_kb-parts-kicad/symbols/mlilley-smalls.kicad_sym")(options "")(descr ""))
+)
